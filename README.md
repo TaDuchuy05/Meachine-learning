@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local KNN Prediction API
 
 Project triển khai REST API phân loại bằng K-Nearest Neighbors, chạy được trực tiếp trên máy local hoặc bằng Docker.
@@ -187,3 +188,4 @@ Response thành công có dạng:
   }
 }
 ```
+
